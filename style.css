@@ -54,11 +54,11 @@ h2 {
 }
 @font-face {
     font-family: "mission-font";
-    src: url(BBHSansHegarty-Regular.ttf);
+    src: url("BBHSansHegarty-Regular.ttf");
 }
 @font-face {
     font-family: "LOGOTEXT";
-    src: url(NewBaskervilleStd-Bold.ttf);
+    src: url("NewBaskervilleStd-Bold.ttf");
 }
 #logo {
     width: 6vw;
