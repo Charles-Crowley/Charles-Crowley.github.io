@@ -76,3 +76,6 @@ h2 {
     display: inline;
     padding-right: 10%;
 }
+#missiontext {
+    font-size: 3.5vw;
+}
