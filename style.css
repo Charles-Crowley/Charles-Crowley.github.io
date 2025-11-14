@@ -1,10 +1,10 @@
 @font-face {
     font-family: "mission-font";
-    src: url("BBHSansHegarty-Regular.ttf");
+    src: url(BBHSansHegarty-Regular.ttf);
 }
 @font-face {
     font-family: "LOGOTEXT";
-    src: url("NewBaskervilleStd-Bold.ttf");
+    src: url(NewBaskervilleStd-Bold.ttf);
 }
 body {
     background-image: linear-gradient(to bottom, lightblue, rgb(65, 193, 244));
