@@ -44,10 +44,11 @@ footer {
     background-repeat: no-repeat;
     background-size: 100%, 100%;   
     margin: 0; 
-    padding-top: 30%;
+    padding-top: 20%;
     justify-content: center;
     text-align: center;
     font-family: "mission-font";
+    font-size: 
 }
 #cast {
     width: 100%;
