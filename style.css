@@ -21,7 +21,7 @@ footer {
 #info-box {
     width: 100%;
     aspect-ratio: 1/1.3;
-    background-image: url("resources/images/crows-nest-element.svg");
+    background-image: url("crows-nest-element.svg");
     background-repeat: no-repeat;
     background-size: 100%, 100%;
     margin: 0;
@@ -31,7 +31,7 @@ footer {
     display: flex;
     width: 100%;
     aspect-ratio: 1/0.31;
-    background-image: url("resources/images/sail.svg");
+    background-image: url("sail.svg");
     background-repeat: no-repeat;
     background-size: 100%, 100%;   
     margin: 0; 
