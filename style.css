@@ -23,7 +23,8 @@ footer {
     margin: 0px;
     display: inline-flex;
     font-size: 6vw;
-    font-family: "LOGOTEXT";
+    font-family: "Times New Roman", "serif";
+    font-weight: bold;
     vertical-align: middle;
 }
 #info-box {
@@ -44,7 +45,7 @@ footer {
     background-size: 100%, 100%;   
     margin: 0; 
     padding-top: 30%;
-    font-family: "mission-font";
+    font-family: "Arial", "sans-serif;
     justify-content: center;
     text-align: center;
 }
