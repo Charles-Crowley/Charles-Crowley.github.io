@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>body {
+    background-image: linear-gradient(to bottom, lightblue, rgb(65, 193, 244));
+    margin: 0;
+}
+header {
+    background-color: white;
+    display: flex;
+    margin-bottom: 5%;;
+}
+footer {
+    background-color: white;
+    display: block;
+}
+#cntitle {
+    margin: 0px;
+    display: inline-flex;
+    font-size: 6vw;
+    font-family: "LOGOTEXT";
+    vertical-align: middle;
+}
+#info-box {
+    width: 100%;
+    aspect-ratio: 1/1.3;
+    background-image: url("resources/images/crows-nest-element.svg");
+    background-repeat: no-repeat;
+    background-size: 100%, 100%;
+    margin: 0;
+    padding: 0;
+}
+#mission-statement {
+    display: flex;
+    width: 100%;
+    aspect-ratio: 1/0.31;
+    background-image: url("resources/images/sail.svg");
+    background-repeat: no-repeat;
+    background-size: 100%, 100%;   
+    margin: 0; 
+    padding-top: 30%;
+    font-family: "mission-font";
+    justify-content: center;
+    text-align: center;
+}
+#cast {
+    width: 100%;
+    aspect-ratio: 1/0.4;
+    background-color: black;
+    margin: 0;
+}
+h2 {
+    display: flex;
+    font-size: 4vw;
+    vertical-align: middle;
+    width: 50%;
+}
+@font-face {
+    font-family: "mission-font";
+    src: url(resources/fonts/BBHSansHegarty-Regular.ttf);
+}
+@font-face {
+    font-family: "LOGOTEXT";
+    src: url(resources/fonts/NewBaskervilleStd-Bold.ttf);
+}
+#logo {
+    width: 6vw;
+    height: 6vw;
+    display: inline;
+    padding-right: 2%;
+}</style>
+  <title>Document</title>
+</head>
+<body>
+    <header><img id="logo"src="resources/images/LOGO.svg"></img><h1 id="cntitle">CROWS NEST</h1></header>
+    <div id="mission-statement"><h2 >"My name is Charlie and I dont want to write a mission statement"</h2></div>
+    <div id="info-box"></div>
+    <div id="cast"></div>
+    <footer>Crow's Nest is a podcast based out of Riverside High School, part of the Durham Public School system.</footer>
+  <script src="main.js"></script>
+</body>
+</html>

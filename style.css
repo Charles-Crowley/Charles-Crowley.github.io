@@ -1,0 +1,68 @@
+body {
+    background-image: linear-gradient(to bottom, lightblue, rgb(65, 193, 244));
+    margin: 0;
+}
+header {
+    background-color: white;
+    display: flex;
+    margin-bottom: 5%;;
+}
+footer {
+    background-color: white;
+    display: block;
+}
+#cntitle {
+    margin: 0px;
+    display: inline-flex;
+    font-size: 6vw;
+    font-family: "LOGOTEXT";
+    vertical-align: middle;
+}
+#info-box {
+    width: 100%;
+    aspect-ratio: 1/1.3;
+    background-image: url("resources/images/crows-nest-element.svg");
+    background-repeat: no-repeat;
+    background-size: 100%, 100%;
+    margin: 0;
+    padding: 0;
+}
+#mission-statement {
+    display: flex;
+    width: 100%;
+    aspect-ratio: 1/0.31;
+    background-image: url("resources/images/sail.svg");
+    background-repeat: no-repeat;
+    background-size: 100%, 100%;   
+    margin: 0; 
+    padding-top: 30%;
+    font-family: "mission-font";
+    justify-content: center;
+    text-align: center;
+}
+#cast {
+    width: 100%;
+    aspect-ratio: 1/0.4;
+    background-color: black;
+    margin: 0;
+}
+h2 {
+    display: flex;
+    font-size: 4vw;
+    vertical-align: middle;
+    width: 50%;
+}
+@font-face {
+    font-family: "mission-font";
+    src: url(resources/fonts/BBHSansHegarty-Regular.ttf);
+}
+@font-face {
+    font-family: "LOGOTEXT";
+    src: url(resources/fonts/NewBaskervilleStd-Bold.ttf);
+}
+#logo {
+    width: 6vw;
+    height: 6vw;
+    display: inline;
+    padding-right: 2%;
+}
