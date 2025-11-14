@@ -23,9 +23,9 @@ footer {
     margin: 0px;
     display: inline-flex;
     font-size: 6vw;
-    font-family: "Times New Roman", serif;
     font-weight: bold;
     vertical-align: middle;
+    font-family: "Times New Roman", serif;
 }
 #info-box {
     width: 100%;
@@ -45,9 +45,9 @@ footer {
     background-size: 100%, 100%;   
     margin: 0; 
     padding-top: 30%;
-    font-family: "Arial", sans-serif;
     justify-content: center;
     text-align: center;
+    font-family: Arial, sans-serif;
 }
 #cast {
     width: 100%;
