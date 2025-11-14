@@ -68,8 +68,8 @@ h2 {
     padding-right: 2%;
 }
 #spotify {
-    width: 2vw;
-    height: 2vw;
+    width: 100px;
+    height: 100px;
     display: inline;
     padding-right: 10%;
 }
